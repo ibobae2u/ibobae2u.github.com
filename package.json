@@ -1,0 +1,24 @@
+{
+  "name": "ibobae2u.github.com",
+  "version": "1.0.0",
+  "description": "https://git-scm.com/  에서 win 64 다운",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibobae2u/ibobae2u.github.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibobae2u/ibobae2u.github.com/issues"
+  },
+  "homepage": "https://github.com/ibobae2u/ibobae2u.github.com#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
