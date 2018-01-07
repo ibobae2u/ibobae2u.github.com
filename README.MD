@@ -1,4 +1,4 @@
-https://travis-ci.org/ibobae2u/ibobae2u.github.com.svg?branch=master
+[![Build Status](https://travis-ci.org/ibobae2u/ibobae2u.github.com.svg?branch=master)](https://travis-ci.org/ibobae2u/ibobae2u.github.com)
 
 https://git-scm.com/  에서 win 64 다운
 
